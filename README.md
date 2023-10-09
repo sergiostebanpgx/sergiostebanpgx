@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://xdeveloper.app">Sergio Steban</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/1BAQ2Bw.png">
+<img src="https://i.imgur.com/BbFjWl9.png">
 
 ## About me ❤
 
