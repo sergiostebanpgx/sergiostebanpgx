@@ -1,16 +1,40 @@
-<div align="center">
-<h1 align="center">Hello, I'm <a href="https://xdeveloper.app">Sergio Steban</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/BbFjWl9.png">
 
-## About me ❤
+# Hey, Soy Sergio! 👋
+FrontEnd Developer | Web Designer 
 
-I'm a passionate web developer, focusing on creating innovative and engaging web experiences. My expertise lies in web development, and currently, I'm diving into and mastering cutting-edge technologies such as React, NextJS, and Tailwind CSS.
+## 🚀 Sobre mí
++3 años de experiencia como Desarrollador Web. Vivo en Bogotá, Colombia. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups y como colaborador de proyectos, también Secretario académico de un Colegio en Bogotá. Soy un apasionado de la tecnología y de la educación. Me encanta aprender y enseñar. Me considero una persona proactiva, autodidacta y con muchas ganas de aprender y aportar a la comunidad.
 
-My commitment to excellence doesn't stop at web development; I'm also advancing my knowledge in cybersecurity through a diploma certified by Google. Online security is a crucial aspect in today's digital world, and I am determined to contribute to a safer and more secure online environment.
 
-In addition, I am actively involved in the Generación TIC project by the Government of Colombia, where I am expanding my skills in data analysis. This project not only provides an opportunity to acquire new skills but also to contribute to technological advancement in my country.
+## 📚 Estudios
 
-In summary, I am a passionate web developer who is constantly seeking to expand my knowledge and skills, whether it's creating innovative web pages or enhancing online security and delving into data analysis. I am excited about the ongoing journey of learning and development in the fascinating world of technology.
+- Corporación Unificada Nacional de Educación Superior | Ingeniería de Sistemas
+- Google - Coursera | Diplomado en Ciberseguridad
+- Universidad Francisco José de Caldas | Analítica de Datos
+- Universidad Autónoma De Bucaramanga | Diplomado En Desarrollo De Aplicaciones Web
+- Universidad Sergio Arboleda | Diplomado En Desarrollo De Software
+
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,gcp,github,git,nodejs,ps,py,react,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
+
+
+
+## Proyectos
+
+ - ✈️ [GIE Visas](https://gievisas-developerx.netlify.app/)
+ - 🍚 [Restaurante](https://restaurant-developerx.netlify.app/)
+ - 🔍 [Las Bambas](https://lasbambas-developerx.netlify.app/)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sergiostebanpgx.vercel.app/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiostebanpg/)
+
 <br>
+
+![Logo](https://i.imgur.com/BbFjWl9.png)
+
+
 
