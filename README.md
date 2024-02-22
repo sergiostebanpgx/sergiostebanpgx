@@ -17,7 +17,7 @@ FrontEnd Developer | Web Designer
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,gcp,github,git,nodejs,ps,py,react,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,gcp,github,git,nodejs,ps,py,react,tailwind,ts,vscode,wordpress)](https://sergiostebanpgx.vercel.app/)
 
 
 
