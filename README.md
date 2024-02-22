@@ -9,7 +9,7 @@ FrontEnd Developer | Web Designer
 ## 📚 Estudios
 
 - Corporación Unificada Nacional de Educación Superior | Ingeniería de Sistemas
-- Google - Coursera | Diplomado en Ciberseguridad
+- Google | Certificado profesional de Ciberseguridad
 - Universidad Francisco José de Caldas | Analítica de Datos
 - Universidad Autónoma De Bucaramanga | Diplomado En Desarrollo De Aplicaciones Web
 - Universidad Sergio Arboleda | Diplomado En Desarrollo De Software
