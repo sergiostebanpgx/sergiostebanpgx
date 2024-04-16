@@ -23,9 +23,9 @@ FrontEnd Developer | Web Designer
 
 ## Proyectos
 
- - ✈️ [GIE Visas](https://gievisas-developerx.netlify.app/)
- - 🍚 [Restaurante](https://restaurant-developerx.netlify.app/)
- - 🔍 [Las Bambas](https://lasbambas-developerx.netlify.app/)
+ - ✈️ [GIE Visas](https://demo-landing-agency.vercel.app/)
+ - 🍚 [Restaurante](https://demo-landing-restaurant.vercel.app/)
+ - 🔍 [Las Bambas](https://demo-landing-miner.vercel.app//)
 
 
 ## 🔗 Links
