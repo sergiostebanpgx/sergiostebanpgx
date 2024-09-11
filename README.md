@@ -3,14 +3,9 @@
 Full-stack developer | Developer | Web developer | Cybersecurity | Desarrollador web | Diseñador web | Power BI | CEO Developer X
 
 ## 🚀 Sobre mí
-Desarrollador Web apasionado con 3+ años de experiencia en Bogotá, Colombia. Experto en la aceleración de startups y en la colaboración en proyectos de diversa índole. Me considero un aprendiz entusiasta y un educador nato. Disfruto asumiendo la iniciativa, enseñando a otros y contribuyendo a la comunidad.
+Desarrollador Full Stack con más de 3 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web. Experto en tecnologías frontend como HTML, CSS, JavaScript, y frameworks como React, Astro, Angular, además de backend con Node.js, Express , Next.js y bases de datos SQL/NoSQL. 
 
-En mi trayectoria profesional, he tenido la oportunidad de trabajar en una amplia gama de proyectos, desde el desarrollo de sitios web para startups hasta la creación de aplicaciones web complejas. Soy experto en una variedad de lenguajes de programación y frameworks, incluyendo HTML, CSS, JavaScript, React y Node.js.
-
-Soy un colaborador entusiasta y me adapto fácilmente a nuevos entornos. Tengo una gran capacidad para aprender y estoy siempre buscando nuevas oportunidades para mejorar mis habilidades. Además de mi pasión por la tecnología, también disfruto enseñando a otros y compartiendo mi conocimiento.
-
-Estoy seguro de que mis habilidades y experiencia me convierten en un activo valioso para cualquier equipo. Soy un trabajador dedicado y apasionado, y siempre estoy buscando nuevos desafíos.
-
+Apasionado por crear soluciones eficientes y escalables, con un enfoque en la optimización y la colaboración en equipo.
 
 ## 📚 Estudios
 
