@@ -17,7 +17,7 @@ Apasionado por crear soluciones eficientes y escalables, con un enfoque en la op
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,gcp,github,git,nodejs,ps,py,react,tailwind,ts,vscode,wordpress)](https://sergiostebanpgx.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,angular,gcp,github,nodejs,react,tailwind,ts,vscode)](https://sergiostebanpgx.vercel.app/)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sergiostebanpgx.vercel.app/) 
