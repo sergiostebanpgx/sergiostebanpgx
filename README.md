@@ -10,8 +10,8 @@ Apasionado por crear soluciones eficientes y escalables, con un enfoque en la op
 ## 📚 Estudios
 
 - Corporación Unificada Nacional de Educación Superior | Ingeniería en Sistemas
-- Desarrollador Web Full Stack | Ministerio de las TIC's x Talento Tech Bogotá
-- Google | Certificado profesional de Ciberseguridad
+- Ministerio de las TIC's x Talento Tech Bogotá | Desarrollador Web Full Stack 
+- Google | Certificado Profesional de Ciberseguridad
 - Universidad Francisco José de Caldas | Analítica de Datos
 - Universidad Autónoma De Bucaramanga | Diplomado En Desarrollo De Aplicaciones Web
 - Universidad Sergio Arboleda | Diplomado En Desarrollo De Software
